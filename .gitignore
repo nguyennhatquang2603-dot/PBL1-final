@@ -1,0 +1,23 @@
+# Visual Studio / C++ build output
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exp
+*.lib
+*.log
+*.tlog
+*.user
+*.aps
+*.iobj
+*.ipdb
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
